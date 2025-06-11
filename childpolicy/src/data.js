@@ -20,10 +20,6 @@ export const links = [
       url: "https://www.childlineindia.org/a/about/childline-india"
     },
     {
-      name: "Ministry of Women and Child Development (MWCD)",
-      url: "https://wcd.nic.in/"
-    },
-    {
       name: "National Cyber Crime Helpline (1930)",
       url: "https://cybercrime.gov.in/"
     }
